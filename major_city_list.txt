@@ -1,0 +1,101 @@
+Tokyo/Yokohama,Japan
+New York Metro,USA
+Sao Paulo,Brazil
+Seoul/Incheon,South Korea
+Mexico City,Mexico
+Osaka/Kobe/Kyoto,Japan
+Manila,Philippines
+Mumbai,India
+Delhi,India
+Jakarta,Indonesia
+Lagos,Nigeria
+Kolkata,India
+Cairo,Egypt
+Los Angeles,USA
+Buenos Aires,Argentina
+Rio de Janeiro,Brazil
+Moscow,Russia
+Shanghai,China
+Karachi,Pakistan
+Paris,France
+Istanbul,Turkey
+Nagoya,Japan
+Beijing,China
+Chicago,USA
+London,UK
+Shenzhen,China
+Essen/Düsseldorf,Germany
+Tehran,Iran
+Bogota,Colombia
+Lima,Peru
+Bangkok,Thailand
+Johannesburg/East Rand,South Africa
+Chennai,India
+Taipei,Taiwan
+Baghdad,Iraq
+Santiago,Chile
+Bangalore,India
+Hyderabad,India
+St Petersburg,Russia
+Philadelphia,USA
+Lahore,Pakistan
+Kinshasa,Congo
+Miami,USA
+Ho Chi Minh City,Vietnam
+Madrid,Spain
+Tianjin,China
+Kuala Lumpur,Malaysia
+Toronto,Canada
+Milan,Italy
+Shenyang,China
+Dallas/Fort Worth,USA
+Boston,USA
+Belo Horizonte,Brazil
+Khartoum,Sudan
+Riyadh,Saudi Arabia
+Singapore,Singapore
+Washington,USA
+Detroit,USA
+Barcelona,Spain
+Houston,USA
+Athens,Greece
+Berlin,Germany
+Sydney,Australia
+Atlanta,USA
+Guadalajara,Mexico
+San Francisco/Oakland,USA
+Montreal.,Canada
+Monterey,Mexico
+Melbourne,Australia
+Ankara,Turkey
+Recife,Brazil
+Phoenix/Mesa,USA
+Durban,South Africa
+Porto Alegre,Brazil
+Dalian,China
+Jeddah,Saudi Arabia
+Seattle,USA
+Cape Town,South Africa
+San Diego,USA
+Fortaleza,Brazil
+Curitiba,Brazil
+Rome,Italy
+Naples,Italy
+Minneapolis/St. Paul,USA
+Tel Aviv,Israel
+Birmingham,UK
+Frankfurt,Germany
+Lisbon,Portugal
+Manchester,UK
+San Juan,Puerto Rico
+Katowice,Poland
+Tashkent,Uzbekistan
+Fukuoka,Japan
+Baku/Sumqayit,Azerbaijan
+St. Louis,USA
+Baltimore,USA
+Sapporo,Japan
+Tampa/St. Petersburg,USA
+Taichung,Taiwan
+Warsaw,Poland
+Denver,USA
